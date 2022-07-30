@@ -1,0 +1,11 @@
+h1{
+    color: goldenrod;
+    font-size: 40px;
+    background-color: green;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-family: 'Lobster', cursive;
+}
